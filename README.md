@@ -6,6 +6,7 @@
 [![gha/validate](https://github.com/opencontainers/runc/workflows/validate/badge.svg)](https://github.com/opencontainers/runc/actions?query=workflow%3Avalidate)
 [![gha/ci](https://github.com/opencontainers/runc/workflows/ci/badge.svg)](https://github.com/opencontainers/runc/actions?query=workflow%3Aci)
 [![CirrusCI](https://api.cirrus-ci.com/github/opencontainers/runc.svg)](https://cirrus-ci.com/github/opencontainers/runc)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Frunc.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Frunc?ref=badge_shield)
 
 ## Introduction
 
@@ -307,3 +308,6 @@ WantedBy=multi-user.target
 ## License
 
 The code and docs are released under the [Apache 2.0 license](LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falexandrevicenzi%2Frunc.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falexandrevicenzi%2Frunc?ref=badge_large)
